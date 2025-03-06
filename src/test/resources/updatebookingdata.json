@@ -1,0 +1,11 @@
+{
+  "firstname" : "James",
+  "lastname" : "Brown",
+  "totalprice" : 3000,
+  "depositpaid" : true,
+  "bookingdates" : {
+    "checkin" : "2025-01-03",
+    "checkout" : "2026-01-03"
+  },
+  "additionalneeds" : "Super Bowl"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="HerokuAppBooking-RestAssured-API-Framework-Feb-22-2025">
+        <classes>
+            <class name="com.apitesting.tests.DeleteBookingUsingJsonFileTest"/>
+            <class name="com.apitesting.tests.GetBookingIdsTest"/>
+            <class name="com.apitesting.tests.PatchUpdateBookingUsingJsonFileTest"/>
+            <class name="com.apitesting.tests.PostCreateBookingTest"/>
+            <class name="com.apitesting.tests.PostCreateBookingTestUsingJsonFileTest"/>
+            <class name="com.apitesting.tests.PostCreateBookingTestUsingPojoTest"/>
+            <class name="com.apitesting.tests.PutUpdateBookingUsingJsonFileTest"/>
+
+        </classes>
+    </test>
+</suite>

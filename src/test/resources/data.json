@@ -1,0 +1,35 @@
+[
+  {
+    "firstname" : "Jim",
+    "lastname" : "Brown",
+    "totalprice" : 111,
+    "depositpaid" : true,
+    "bookingdates" : {
+      "checkin" : "2018-01-01",
+      "checkout" : "2019-01-01"
+    },
+    "additionalneeds" : "Breakfast"
+  },
+  {
+    "firstname" : "Siri",
+    "lastname" : "Chandana",
+    "totalprice" : 1500,
+    "depositpaid" : true,
+    "bookingdates" : {
+      "checkin" : "2025-01-01",
+      "checkout" : "2026-01-01"
+    },
+    "additionalneeds" : "Lunch"
+  },
+  {
+    "firstname" : "John",
+    "lastname" : "Kennedy",
+    "totalprice" : 113,
+    "depositpaid" : true,
+    "bookingdates" : {
+      "checkin" : "2027-01-01",
+      "checkout" : "2028-01-01"
+    },
+    "additionalneeds" : "Dinner"
+  }
+]
